@@ -1,3 +1,4 @@
 ### Hi there 👋
 
-![amalgit](https://user-images.githubusercontent.com/75434427/165838726-f3169b84-b45e-4bb6-b423-d09dd811f9a5.png)
+![amalgit2](https://user-images.githubusercontent.com/75434427/166486358-2b4e6a3f-f078-4620-9a08-d1998bdd5eaf.png)
+
