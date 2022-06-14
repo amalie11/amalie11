@@ -7,8 +7,8 @@ Skills: PYTHON/HTML/JAVA/C++/C#
 - 🔭 I’m currently working on some python projects. 
 - 🌱 I’m currently learning Machine Learning. 
 - 👯 I’m looking to collaborate on anything! 
-- 🤔 I’m looking for help with Data Science. 
-- ⚡ Fun fact: I love chocolate😍 
+- 🤔 I’m looking for some help with assembly programming. 
+- ⚡ Fun fact: I love chocolate. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/amalie11)  
