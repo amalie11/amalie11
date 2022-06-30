@@ -9,11 +9,13 @@ Skills: PYTHON/HTML/JAVA/C++/C#
 - 🌱 I’m currently learning Machine Learning. 
 - 👯 I’m looking to collaborate on anything! 
 
-📕 Some of the blogs I follow:
+📕 Some writers I follow:
 
-<!-- BLOG-POST-LIST:START -->
-- *list of the istes*
-<!-- BLOG-POST-LIST:END -->
+
+- Joseph Cox(https://www.vice.com/en/contributor/joseph-cox?page=1)
+- Mohit Kumar(@unix_root)
+- Christopher Bing(https://www.reuters.com/authors/christopher-bing/)
+
 
 
 
