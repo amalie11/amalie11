@@ -1,6 +1,14 @@
 ### Hey there 👋,my name is Amalie.
 
-![amalgit2](https://user-images.githubusercontent.com/75434427/166486358-2b4e6a3f-f078-4620-9a08-d1998bdd5eaf.png)
+
+
+
+
+![AMALIE](https://user-images.githubusercontent.com/75434427/178799810-dca1ca66-4d00-4b7e-8787-e2af5446e445.gif)
+
+
+
+
 <hr>
 <br>
 Skills: PYTHON/HTML/JAVA/C++/C#
